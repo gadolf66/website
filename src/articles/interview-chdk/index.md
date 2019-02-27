@@ -131,6 +131,12 @@ The lower cost of P&S also makes them more attractive to experiment with, and be
 Kite aerial photograph captured by a Canon PowerShot G7X, powered by a CHDK script, by <a href='https://www.flickr.com/photos/56388614@N05/albums' target='_blank'>Peter Laudanski</a>, licensed under CC BY-NC 2.0. The script was written by *waterwingz* and is better described <a href='http://chdk.wikia.com/wiki/KAP_UAV_Exposure_Control_Script' target='_blank'>here</a>.</figcaption>
 </figure>
 
+<figure>
+<img src='Peter.Laudanski.Kite.Mount.jpg' alt='Kite Mount, by Peter Laudanski'>
+<figcaption>
+Kite mount showing, at top left, a box containing battery and a transmitter for the monitor at bottom right, that stays on the ground. By <a href='https://www.flickr.com/photos/56388614@N05/albums' target='_blank'>Peter Laudanski</a>, licensed under CC BY-NC 2.0. The script was written by *waterwingz* and is better described <a href='http://chdk.wikia.com/wiki/KAP_UAV_Exposure_Control_Script' target='_blank'>here</a>.</figcaption>
+</figure>
+
 #### CHDK was born as HDK, or Hack Development Kit, and only later the "C" was added. Regarding the idea behind the name, what exactly does it mean to say that CHDK is not a simple firmware add-on, but a development kit? Does it have to do with the capability of loading and executing custom user scripts?
 
 **waterwingz** Way before my time again - I'd only be speculating on the name's origin. I guess the kit designation means you get the source code to do development with. I don't think it has anything to do with user scripting capabilities.
@@ -195,9 +201,9 @@ I suppose we should also include uBasic as we still include some testing scripts
 Finally there is also the Canon Basic built into the firmware - we use this to do firmware dumping.
 
 <figure>
-<img src='reyalp-chdk-iss-ursa-major-20180608-8865.jpg' width='2000' height='1500' alt='ISS pass, by reyalp'>
+<img src='Garry.George.1_02.jpg' width='5472' height='3648' alt='Winchester Cathedral by Garry George'>
 <figcaption>
-International space station pass, CHDK used for exposure control and to trigger at predicted time, using script <a href='https://chdk.fandom.com/wiki/Lua/Scripts:_Fixed_Exposure_Intervalometer' target='_blank'>fixedint.lua</a>, by reyalp, licensed under CC BY-NC 2.0. 
+Winchester Cathedral captured by a Canon PowerShot G7X, powered by a CHDK script, by Garry George, licensed under CC BY-NC 2.0. <a href='http://chdk.wikia.com/wiki/Landscape_Focus_Bracketing_:_perfect_near_to_far_focus_brackets' target='_blank'>The script</a> was written by Garry himself.
 </figcaption>
 </figure>
 
@@ -296,6 +302,12 @@ Finally, do a port for an unsupported camera - pretty much every CHDK dev starte
 To get involved with development, it really depends on your interests. If there's something you want to add, either dive into the code or ask for suggestions on where to start.
 
 Ports of additional cameras are always welcome too, and doing one provides a good overview of how CHDK works.
+
+<figure>
+<img src='Peter.Laudanski.Heuernte.in.Holthausen_01.jpg' width='2048' height='1536' alt='Heuernte in Holthausen by Peter Laudanski'>
+<figcaption>
+Kite aerial photograph captured by a Canon PowerShot G7X, powered by a CHDK script, by <a href='https://www.flickr.com/photos/56388614@N05/albums' target='_blank'>Peter Laudanski</a>, licensed under CC BY-NC 2.0. The script was written by *waterwingz* and is better described <a href='http://chdk.wikia.com/wiki/KAP_UAV_Exposure_Control_Script' target='_blank'>here</a>.</figcaption>
+</figure>
 
 #### What are some tasks non-programmers can do to help the project?
 
@@ -470,15 +482,10 @@ I also do some lo-fi astrophotography using CHDK scripts to take lots of exposur
 But what I do most is take test shots of my desk while working on the code ;)
 
 <figure>
-<img src='Peter.Laudanski.Heuernte.in.Holthausen_01.jpg' alt='Heuernte in Holthausen, by Peter Laudanski'>
+<img src='reyalp-desk.jpg' width='300' height='225' alt="reyalp's desk by reyalp">
 <figcaption>
-Kite aerial photograph captured by a Canon PowerShot G7X, powered by a CHDK script, by <a href='https://www.flickr.com/photos/56388614@N05/albums' target='_blank'>Peter Laudanski</a>, licensed under CC BY-NC 2.0. The script was written by *waterwingz* and is better described <a href='http://chdk.wikia.com/wiki/KAP_UAV_Exposure_Control_Script' target='_blank'>here</a>.</figcaption>
-</figure>
-
-<figure>
-<img src='Peter.Laudanski.Kite.Mount.jpg' alt='Kite Mount, by Peter Laudanski'>
-<figcaption>
-Kite mount showing, at top left, a box containing battery and a transmitter for the monitor at bottom right, that stays on the ground. By <a href='https://www.flickr.com/photos/56388614@N05/albums' target='_blank'>Peter Laudanski</a>, licensed under CC BY-NC 2.0. The script was written by *waterwingz* and is better described <a href='http://chdk.wikia.com/wiki/KAP_UAV_Exposure_Control_Script' target='_blank'>here</a>.</figcaption>
+reayalp's desk, by reyalp, licensed under CC BY-NC 2.0.
+</figcaption>
 </figure>
 
 #### When did you joined CHDK as a developer? Why? What is your background? What is your role?
